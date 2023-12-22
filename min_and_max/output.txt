@@ -1,0 +1,2 @@
+Max element: 5
+Min element: 1
