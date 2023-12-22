@@ -1,0 +1,3 @@
+Top element: 3
+Top element after two pops: 1
+Stack underflow. There are no elements present in the stack to be popped
