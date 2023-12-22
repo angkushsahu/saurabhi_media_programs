@@ -26,6 +26,7 @@ int main() {
    #endif
    /* IGNORE this block */
 
+    // start here
    int size; std::cin >> size;
    int arr[size] = { 0 };
    for (int i = 0; i < size; i ++)
