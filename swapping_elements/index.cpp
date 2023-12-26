@@ -20,6 +20,7 @@ int main() {
    #endif
    /* IGNORE this block */
 
+    // start here
    int a, b;
    std::cin >> a >> b;
 

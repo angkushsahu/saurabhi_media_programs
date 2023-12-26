@@ -61,6 +61,7 @@ int main() {
    #endif
    /* IGNORE this block */
 
+    // start here
     Stack stack_instance;
 
     stack_instance.push(1);

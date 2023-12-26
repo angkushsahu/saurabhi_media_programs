@@ -26,6 +26,7 @@ int main() {
    #endif
    /* IGNORE this block */
 
+    // start here
    std::string str; std::getline(std::cin, str);
    fflush(stdin); // clearing buffers
 
